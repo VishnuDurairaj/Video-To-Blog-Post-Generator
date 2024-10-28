@@ -1,6 +1,10 @@
-# 🎥 Video to Blog Generator
+# Video to Blog Post Generator
 
 This project transforms video content into a comprehensive blog post by identifying "stable frames" — parts of the video where frames change very little over a specified period. Using both visual and audio analysis, the tool captures important moments, extracts still frames, and transcribes any voice-over present during these segments. The final result is a blog-ready summary of the video content.
+
+
+<img src="logo.webp" alt="Logo" height="400">
+
 
 ## Project Workflow
 
