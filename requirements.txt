@@ -1,0 +1,9 @@
+opencv-python==4.10.0.84
+scikit-image==0.24.0
+matplotlib
+numpy
+moviepy==1.0.3
+faster-whisper==1.0.3
+ffmpeg-python==0.2.0
+soundfile==0.12.1
+streamlit==1.39.0
