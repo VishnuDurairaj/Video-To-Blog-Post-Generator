@@ -51,8 +51,8 @@ This process results in a polished, blog-ready summary of the video content, wit
 
 1. **Clone the Git Repository**  
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/VishnuDurairaj/Video-To-Blog-Post-Generator.git
+    cd Video-To-Blog-Post-Generator
     ```
 2. **Create a Virtual Environment and Activate It**
 
